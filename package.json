@@ -20,10 +20,10 @@
     "identicon"
   ],
   "contributors": [
-      {
-          "name": "Andrew Brooke",
-          "email": "andrewbrooke15@gmail.com"
-      }
+    {
+      "name": "Andrew Brooke",
+      "email": "andrewbrooke15@gmail.com"
+    }
   ],
   "license": "MIT",
   "bugs": {
